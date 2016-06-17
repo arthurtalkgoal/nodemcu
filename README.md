@@ -24,3 +24,9 @@ When message length reach certain bytes, it will push the json data to the broke
 
 Update the ***did*** and ***broker*** variables for device id and broker url.
 
+
+License
+======
+
+This project is under 
+[Apache License Version 2.0]:(LICENSE.txt "Apache License Version 2.0")
